@@ -1,0 +1,55 @@
+/*!	Breadcrumbs	*/#breadcrumbs p{font-size:1.1rem;padding-top:5px;padding-right:3px;padding-left:3px;font-weight:400;color:#999;text-decoration:none}
+/*! Page	*/.main-page{overflow:hidden;position:relative}
+.npc-featured-image{height:600px;background-color:#000;background-position:center center;position:relative;background-repeat:no-repeat;background-size:cover;margin-bottom:50px;width:100%;z-index:1}
+.npc-featured-image .wrapper{overflow:hidden;height:100%;display:flex;clear:both;align-items:center}
+.page-header-wrapper{overflow:hidden;color:#fff;display:block;position:relative;font-weight:400;line-height:1.5;max-width:600px}
+.npc-featured-image .article-page-title{font-family:'Eye Catching';font-size:12rem;overflow:hidden;color:#fff;clear:both;position:relative;font-weight:300;line-height:.7;margin-top:0;display:inline;width:100%;text-align:center}
+.npc-featured-image .article-page-subtitle{overflow:hidden;color:#fff;clear:both;position:relative;font-weight:300;line-height:1.5}
+.npc-featured-image .article-page-subtitle h2{font-weight:300;margin-bottom:1em}
+.npc-featured-image .article-page-subtitle h3{font-weight:300;margin-bottom:1em}
+.npc-featured-image .article-page-subtitle h2:last-of-type{margin-bottom:0}
+.npc-featured-image .article-page-subtitle h3:last-of-type{margin-bottom:0}
+.article-page-header{margin-bottom:25px}
+.article-page-image img{width:100%}
+/*! Page	with sidebar */.main-page-with-sidebar{display:block;clear:both;max-width:1400px;width:100%;margin-left:auto;margin-right:auto;height:100%;overflow:hidden;background-color:#FFF;margin-top:90px;position:relative}
+.article-page-with-sidebar{display:block;clear:right;max-width:1200px;width:76%;height:100%;overflow:hidden;margin-top:20px;float:right;position:relative;padding-right:3%;padding-left:3%}
+.article-page-with-sidebar-title{font-size:300%;line-height:normal;margin-top:0;margin-bottom:0;font-weight:800;padding-top:10px;padding-bottom:5px;text-transform:uppercase;text-decoration:none;border-bottom:1px solid #e8e8e8}
+#sidebar{width:20%;display:block;float:left;min-height:100% !important;height:auto;margin-top:20px;overflow:hidden;padding-top:0;margin-left:2%;margin-right:2%}
+.widget{margin-bottom:15px;float:left;width:100%}
+.widget-title{font-size:1.6em;line-height:2em;margin-bottom:0;font-weight:600}
+.widget-title a{color:#333}
+.ritam{border:1px solid #ccc}
+.ritam tbody th{color:#222;background-color:rgba(255,255,255,1.00);vertical-align:middle;font-size:1.6rem;line-height:1.5;padding:.6em .4em}
+.ritam td{border:1px solid #ccc}
+.ritam tr:nth-child(odd) td:first-child{background:#eb3b3b !important;color:#fff !important}
+.ritam tr:nth-child(even) td:first-child{background:#ffdd1b !important;color:#fff !important}
+#map_container{border:1px solid rgba(60,183,195,1);box-sizing:border-box;display:block;margin-top:0;margin-bottom:20px}
+#map_canvas{height:300px;width:100%;max-width:1400px;clear:both;box-sizing:border-box;display:block}
+.date-link{background-image:url(../images/icons/date.svg);background-repeat:no-repeat;background-position:left center;background-size:16px;padding-left:20px;font-size:1.2rem;line-height:1.5;text-decoration:none;padding-top:5px;padding-bottom:5px;display:inline-block;margin-left:3px;color:#666}
+.byline{background-image:url(../images/icons/user.svg);background-repeat:no-repeat;background-position:left center;background-size:16px;padding-left:20px;font-size:1.2rem;line-height:1.5;text-decoration:none;padding-top:5px;padding-bottom:5px;display:inline-block;margin-left:3px;color:#666}
+.byline a{color:#666}
+.edit-link{background-image:url(../images/icons/edit.svg);background-repeat:no-repeat;background-position:left center;background-size:16px;padding-left:20px;font-size:1.2rem;line-height:1.5;text-decoration:none;padding-top:5px;padding-bottom:5px;display:inline-block;margin-left:3px;color:#666}
+.recipe{display:block;float:left;width:23.3%;margin:0 5%}
+.recipe-text h3{font-size:2rem;text-align:center;margin-top:20px;color:#333}
+.recipe-image{border-radius:50%;padding:20px;border:1px solid #e8b623}
+.recipe-image img{border-radius:50%}
+#breadcrumbs{padding-bottom:15px}
+#breadcrumbs a{color:#999}
+#breadcrumbs p{font-size:1.4rem;padding-top:5px;padding-right:0;padding-left:0;font-weight:300;color:#999;text-decoration:none}
+.wpcf7-text{border-radius:25px;border:1px solid #999}
+.wpcf7-textarea{border-radius:25px;border:1px solid #999}
+.wpcf7-submit{font-weight:300;background-color:#98272d;color:#fff;border:1px solid #98272d;padding:10px 15px;display:flex;align-items:center;font-size:1.6rem;line-height:1;border-radius:25px}
+#npc-job-search-filter-options label{font-size:1.6rem}
+#npc-job-search-filter-options select{border-radius:25px;border:1px solid #999}
+#npc-job-search-filter-options .label-block{display:initial;margin:5px}
+#npc-job-search-filter-options .filter-dugme-box{display:inline-block;margin:5px}
+#npc-job-search-filter-options .filter-dugme{font-weight:300;background-color:#98272d;color:#fff;border:1px solid #98272d;padding:10px 15px;display:flex;align-items:center;font-size:1.6rem;line-height:1;border-radius:25px}
+.article-careers-wrapper{margin:50px auto}
+.article-careers{margin:20px 0}
+.article-careers-learn-more{font-weight:300;background-color:#98272d;color:#fff;border:1px solid #98272d;padding:10px 15px;display:inline-block;align-items:center;font-size:1.6rem;line-height:1;border-radius:25px}
+@media screen and (max-width:880px){.main-page-primary,.main-page-with-sidebar-primary{display:block;float:right;max-width:1400px;width:100%;margin-left:auto;margin-right:auto;height:100%;overflow:hidden;position:relative}
+.npc-featured-image .article-page-title{font-family:'Eye Catching';font-size:8rem;overflow:hidden;color:#fff;clear:both;position:relative;font-weight:300;line-height:1;margin-top:0;display:inline;width:100%;text-align:center}
+#sidebar{max-width:480px;width:100%;display:block;float:none;min-height:100% !important;height:auto;margin-top:20px;overflow:hidden;margin-left:auto;margin-right:auto;padding:0 5%}
+}
+@media screen and (max-width:480px){.entry-content h2{font-size:3.8rem;line-height:1.2;margin-bottom:.75em}
+}

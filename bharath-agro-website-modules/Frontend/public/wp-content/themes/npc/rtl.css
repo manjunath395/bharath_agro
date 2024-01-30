@@ -1,0 +1,7 @@
+body { direction: rtl; unicode-bidi: embed; }
+h1,h2,h3,h4,h5,h6{text-align:right;}
+p{font-size: 2rem;text-align:right;}
+.entry-content ul li{font-size:2rem;line-height:1.5;}
+.entry-content ol li{font-size:2rem;line-height:1.5;}
+.npc-featured-image .article-page-title{font-family: 'Eye Catching';font-size: 8rem;overflow:hidden;color:#fff;clear:both;position:relative;font-weight:300;line-height: 1;margin-top:0;display: inline;width: 100%; text-align: center;text-shadow: 0px 0px 20px rgba(0,0,0,0.5);}
+.npc-featured-image .article-post-title{font-family: 'Eye Catching';font-size: 8rem;overflow:hidden;color:#fff;clear:both;position:relative;font-weight:300;line-height: 1;margin-top:0;display: inline;width: 100%; text-align: center;text-shadow: 0px 0px 20px rgba(0,0,0,0.5); }

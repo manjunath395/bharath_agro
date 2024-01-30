@@ -1,0 +1,63 @@
+#breadcrumbs{padding-bottom:15px}
+#breadcrumbs a{color:#999}
+#breadcrumbs p{font-size:1.4rem;padding-top:5px;padding-right:0;padding-left:0;font-weight:300;color:#999;text-decoration:none}
+#breadcrumbs .wrapper{margin-bottom:0}
+.main-archive{display:block;clear:both;max-width:1400px;width:100%;margin-left:auto;margin-right:auto;height:100%;overflow:hidden;margin-top:0;position:relative}
+.main-archive-primary{display:block;float:right;max-width:1400px;width:77%;padding-left:3%;padding-right:3%;margin-left:auto;margin-right:auto;height:100%;overflow:hidden;margin-top:0;position:relative}
+.main-taxonomy-image img{width:100%}
+.archive-header{margin-bottom:25px !important}
+.archive-title{font-size:300%;line-height:normal;margin-top:0;margin-bottom:0;font-weight:600;padding-top:10px;padding-bottom:5px;text-decoration:none}
+.npc-featured-image{height:600px;background-color:#000;background-position:center center;position:relative;background-repeat:no-repeat;background-size:cover;margin-bottom:0;width:100%;z-index:1}
+.npc-featured-image .wrapper{overflow:hidden;height:100%;display:flex;clear:both;align-items:center}
+.npc-featured-image .archive-title{font-family:'Eye Catching';font-size:12rem;overflow:hidden;color:#fff;clear:both;position:relative;font-weight:300;line-height:1.5;margin-top:0;display:inline;width:100%;text-align:center}
+.archive-description p{font-size:1.4em;line-height:1.2;margin-bottom:.8em}
+.article-archive{display:block;float:left;max-width:1200px;width:100%;overflow:hidden;margin-top:0;position:relative;background-color:rgba(255,255,255,1)}
+.article-archive-header{padding:0}
+.article-archive-image{margin-right:4%;display:block;float:left}
+.article-archive-title{font-size:2rem;line-height:1.2;margin-top:0;margin-bottom:0;font-weight:600;padding-top:10px;padding-bottom:5px;text-decoration:none;overflow:hidden;width:100%}
+.article-archive-summary{padding:1% 0}
+.article-archive-summary p{font-size:1.4em}
+.article-archive-footer{padding:0}
+.main-archive-recipes .wrapper{margin:0 auto 50px}
+.main-archive-recipes .article-archive{display:block;float:left;width:20.3%;margin:0 6.5% 25px}
+.main-archive-recipes .article-archive-title{text-align:center;margin-top:20px;font-weight:300;color:#999}
+.main-archive-recipes .article-archive-title a{text-align:center;font-weight:300;color:#999}
+.main-archive-recipes .article-archive-image{border-radius:50%;padding:20px;border:1px solid #e8b623}
+.main-archive-recipes .article-archive-image img{border-radius:50%}
+.recipes-categories{width:100%;margin:20px 0 50px;overflow:hidden}
+.recipes-categories-title{font-size:4.8rem;line-height:1.2;margin:0 0 20px 0;text-align:center;text-align:center;font-weight:400;color:#98272d}
+.recipes-categories ul{overflow:hidden;display:flex;justify-content:center;flex-wrap:wrap}
+.recipes-categories .cat-item{list-style:none;margin:5px;display:block}
+.recipes-categories .cat-item a{font-weight:300;border:1px solid #999;color:#999;padding:10px 15px;display:flex;align-items:center;font-size:1.6rem;line-height:1;border-radius:25px}
+.recipes-categories .cat-item.current-cat a{background-color:#e8b623;color:#fff;border:1px solid #e8b623}
+.recipes-categories .cat-item a:hover{background-color:#98272d;color:#fff;border:1px solid #98272d}
+/*! Sidebar */#sidebar{width:20%;display:block;float:left;min-height:100% !important;height:auto;margin-top:20px;overflow:hidden;padding-top:0;margin-left:2%;margin-right:0}
+/*! Widgets */.widget{margin-bottom:15px;float:left;width:100%;overflow:hidden}
+.widget-title{font-size:1.6em;line-height:2em;margin-bottom:0;font-weight:600}
+.widget-title a{color:#333}
+/*! Page Navigation */.navigation{display:block;padding-top:15px;margin-top:20px;margin-bottom:20px;margin-left:auto;margin-right:auto;padding-bottom:5px;clear:both;text-align:center;overflow:hidden;width:100%}
+.navigation a{margin:2px;text-decoration:none;font-weight:300;color:#fff;background-color:#98272d;font-size:1.6rem;line-height:1.5;padding:6px 10px 4px;border-radius:3px;-webkit-border-radius:3px;-webkit-text-stroke:1px rgba(255,255,255,.01)}
+.navigation a:hover{color:#fff;background-color:#e8b623}
+.navigation span.current{font-weight:600;color:#fff;background-color:#e8b623;font-size:1.6rem;line-height:1.5;padding:6px 10px 4px;border-radius:3px;-webkit-border-radius:3px}
+.cat-links{background-repeat:no-repeat;background-position:left center;padding-left:20px;font-size:1em;line-height:1.4em;text-decoration:none;padding-top:5px;padding-bottom:5px;display:inline-block;margin-left:3px}
+.tag-links{background-repeat:no-repeat;background-position:left center;padding-left:20px;font-size:1em;line-height:1.4em;text-decoration:none;padding-top:5px;padding-bottom:5px;display:inline-block;margin-left:3px}
+.date-link{background-image:url(../images/icons/date.svg);background-repeat:no-repeat;background-position:left center;padding-left:20px;font-size:1em;line-height:1.4em;text-decoration:none;padding-top:5px;padding-bottom:5px;display:inline-block;margin-left:3px;color:#666}
+.byline{background-image:url(../images/icons/user.svg);background-repeat:no-repeat;background-position:left center;padding-left:20px;font-size:1em;line-height:1.4em;text-decoration:none;padding-top:5px;padding-bottom:5px;display:inline-block;margin-left:3px;color:#666}
+.byline a{color:#666}
+@media screen and (max-width:1024px){.main-archive{margin-top:60px}
+.article-archive-proizvodi{display:block;float:left;width:29.3%;overflow:hidden;margin-left:2%;margin-right:2%;margin-bottom:2%;background-color:rgba(255,255,255,1);min-height:370px}
+.main-archive-product{margin-top:60px}
+.main-archive-recipes .article-archive{display:block;float:left;width:23.3%;margin:0 5% 25px}
+.main-archive-recipes .article-archive-image{border-radius:50%;padding:15px;border:1px solid #e8b623}
+}
+@media screen and (max-width:880px){.main-archive-recipes .article-archive{display:block;float:left;width:28.3%;margin:0 2.5% 25px}
+.main-archive-recipes .article-archive-image{border-radius:50%;padding:10px;border:1px solid #e8b623}
+}
+@media screen and (max-width:640px){.main-archive-recipes .article-archive{display:block;float:left;width:30%;margin:0 10% 25px}
+.main-archive-recipes .article-archive-image{border-radius:50%;padding:10px;border:1px solid #e8b623}
+.article-category-image{margin-right:0;margin-bottom:10px;display:block;float:left;max-width:100%}
+.article-category-footer{padding:0}
+}
+@media screen and (max-width:480px){.main-archive-recipes .article-archive{display:block;float:left;width:40%;margin:0 5% 25px}
+.main-archive-recipes .article-archive-image{border-radius:50%;padding:10px;border:1px solid #e8b623}
+}
